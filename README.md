@@ -2,7 +2,8 @@
 
 > Status = Em desenvolvimento
 
+<p>Para executar o programa</p>
 ```
-npm instal react
+node app.js
 
 ```
